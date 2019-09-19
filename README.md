@@ -14,7 +14,7 @@ The frog scores 1 point every time it progresses forward, and 10 points for gett
 This game allows you to move the frog freely in omni directions using the joystick or push buttons. Holding down button/joystick exhibits auto-repeat behaviour after a short delay such that it is as if being repeatedly pressed. 
 
 ### Traffic lanes
-The program scrolls traffic lanes at varying speeds (between 750ms to one piexel per 1.3s) to make the play through more difficult. Frog loses a life point at collision, and is moved back to the starting point. 
+The program scrolls traffic lanes at varying speeds (between 750ms to one pixel per 1.3s) to make the play through more difficult. Frog loses a life point at collision, and is moved back to the starting point. 
 
 ### Logs
 The program scrolls logs at varying speeds. Logs can be used to cross the 'river' which is necessary to reach the other side. Falling into the river means life point loss.
