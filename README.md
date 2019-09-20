@@ -3,7 +3,7 @@ C programming for AVR ATmega324A microcontroller based on the Frogger arcade gam
 <br/>
 See `IO Ports.png`:
 <br/>
-![IO Preview](IO-Ports.png)
+![IO Preview](IOPorts.png)
 <br/>
 
 ## Usage Description
