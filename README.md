@@ -1,5 +1,9 @@
 # Frogger (UQ- CSSE2010 Assessment Item)
-C programming for AVR ATmega324A microcontroller based on the Frogger arcade game. Requires .hex file to download to the ATmega324A AVR microcontroller program memory. The specification of IO devices and ports used in this project is available in `IO Ports.png` 
+C programming for AVR ATmega324A microcontroller based on the Frogger arcade game. Requires .hex file to download to the ATmega324A AVR microcontroller program memory. The specification of IO devices and ports used in this project is available in `IO Ports.png`.
+<br/>
+See `IO Ports.png`:
+<br/>
+![IO Ports](IO Ports.png)
 
 ## Usage Description
 This version of frogger runs on the Atmega324A microcontroller which receives number of inputs (joystick, push button) and outputs the display on the LED display board (+ Seven segment display, other LEDS), with additional information being outputted to the serial terminal (score, lives, etc).
