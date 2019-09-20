@@ -3,7 +3,7 @@ C programming for AVR ATmega324A microcontroller based on the Frogger arcade gam
 <br/>
 See `IO Ports.png`:
 <br/>
-![IO Ports](IO Ports.png)
+![IO Preview](IO Ports.png)
 
 ## Usage Description
 This version of frogger runs on the Atmega324A microcontroller which receives number of inputs (joystick, push button) and outputs the display on the LED display board (+ Seven segment display, other LEDS), with additional information being outputted to the serial terminal (score, lives, etc).
